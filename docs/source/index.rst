@@ -1,7 +1,7 @@
 Welcome to DA Mind's documentation!
 ===================================
 
-**DA Mind** (/lu'make/) for the Data Analytics Mind.
+**DA Mind** for the Data Analytics Mind.
 
 .. note::
 
